@@ -1,12 +1,8 @@
-"hello"
+<My first repository> 
 
 
 
-#My first repository 
-
-
-
-Hello. My name is *Fatima* and this is my first project.
+Hello! My name is *Fatima* and this is my first project.
 
 
 
@@ -18,5 +14,5 @@ Here are three things that you should know about me:
 
 
 
-hi
+hehe
 
